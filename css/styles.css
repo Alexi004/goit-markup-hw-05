@@ -525,6 +525,12 @@ img {
   margin-left: 16px;
 }
 
+.footer-button-icon:hover,
+.footer-button-icon:focus {
+  background-color: #404bbf;
+  color: #fff;
+}
+
 .footer .container {
   display: flex;
   align-items: baseline;
@@ -711,6 +717,12 @@ img {
   border: none;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   cursor: pointer;
+}
+
+.modal-button:hover,
+.modal-button:focus {
+  background-color: #404bbf;
+  color: #fff;
 }
 
 .check-text {
