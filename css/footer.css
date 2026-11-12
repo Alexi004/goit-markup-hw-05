@@ -1,0 +1,35 @@
+.footer {
+  padding: 100px 0;
+  background-color: #2e2f42;
+}
+.footer-wrapper {
+  display: flex;
+}
+.footer-info {
+}
+.footer-logo {
+  margin-bottom: 16px;
+  color: #f4f4fd;
+}
+.footer-desc {
+  color: #f4f4fd;
+  max-width: 264px;
+}
+
+.footer-socials {
+  margin-right: auto;
+  margin-left: 120px;
+}
+.footer-socials .socials {
+  gap: 16px;
+}
+
+.footer-socials .socials-link:hover,
+.footer-socials .socials-link:focus {
+  background-color: #31d0aa;
+}
+.footer-caption {
+  margin-bottom: 16px;
+  font-weight: 500;
+  color: #fff;
+}
