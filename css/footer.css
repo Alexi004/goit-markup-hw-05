@@ -81,3 +81,7 @@
 .footer-btn.hero-btn:focus {
   background-color: #31d0aa;
 }
+
+.footer-form-input::placeholder {
+  color: #fff;
+}
